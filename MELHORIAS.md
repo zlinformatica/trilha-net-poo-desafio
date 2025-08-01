@@ -1,7 +1,7 @@
 # 📄 Documentação Técnica — Atualizações no Projeto Smartphone
 
 ## 📌 Objetivo
-Implementar melhorias no método `InstalarAplicativo` das classes `Nokia` e `Iphone`, utilizando a estrutura `do...while` e validação da memória disponível, garantindo que apenas aplicativos com necessidade de até **64 MB** sejam instalados com sucesso.
+Implementar melhorias no método `InstalarAplicativo` das classes `Nokia` e `Iphone`, utilizando a estrutura `do...while` e validação da memória disponível, garantindo que apenas aplicativos com necessidade de até **128 MB** sejam instalados com sucesso.
 
 ---
 
